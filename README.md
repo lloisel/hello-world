@@ -1,2 +1,3 @@
 # hello-world
-training repository to learn about GitHub
+
+Hello! I am trying to learn a little bit about GitHub
